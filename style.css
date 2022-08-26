@@ -1,0 +1,78 @@
+:root{
+    --dark-overlay: #3292a6;
+}
+
+.navbar{
+    opacity: 0.9;
+    height: 15%;
+}
+
+.mine-logo{
+    width: 50px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+}
+
+.pop-up:hover{
+    background-color: var(--dark-overlay);
+    color: white;
+    border: 3px solid #5fc1d4 ;
+    border-radius: 10px;
+}
+
+#home{
+    background: url("../images/mountains.jpg") no-repeat center center/cover;
+    height: 80vh;
+    margin-top: 81px;
+}
+
+.dark-overlay{
+    height: 100%;
+    background-color: var(--dark-overlay);
+    opacity: 0.85;
+}
+
+.book-poster{
+    height: 90%;
+    width: 90%;
+    margin-top: -30px;
+}
+
+.btn-mine{
+    background-color: var(--dark-overlay);
+}
+
+.text-mine{
+    color: var(--dark-overlay);
+}
+
+.border-mine{
+    border-color: var(--dark-overlay);
+}
+
+.bg-mine{
+    background-color: var(--dark-overlay);
+}
+
+.card-img-top{
+    border-radius: 50%;
+    width: 120px;
+}
+
+.img-mine{
+    display: flex;
+    justify-content: center;
+    margin-top: -70px;
+}
+
+.hover:hover{
+    background-color: var(--dark-overlay);
+    color: white;
+}
+
+.mizuxe-logo{
+    margin-top: 100px;
+}
+
